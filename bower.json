@@ -1,0 +1,9 @@
+{
+  "name": "linkedinUmbelApp",
+  "version": "0.0.1",
+  "dependencies": {
+    "react": "^0.11.0",
+    "modernizr": "^2.8.3"
+  }
+}
+
